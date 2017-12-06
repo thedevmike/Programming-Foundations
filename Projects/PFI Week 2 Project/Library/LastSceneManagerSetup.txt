@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Mike/Desktop/PGF Projects - November 2017/PGF Lectures/Assets/Scenes/Day
+    5.unity
+  isLoaded: 1
+  isActive: 1

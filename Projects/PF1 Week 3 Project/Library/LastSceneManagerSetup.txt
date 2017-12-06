@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DarlanMike_Week3Lab/Scenes/Setup.unity
+  isLoaded: 1
+  isActive: 1
